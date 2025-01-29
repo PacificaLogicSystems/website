@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+@import "tailwindcss";
+
+@layer base {
+    html {
+        font-family: "Bree Serif", system-ui, serif;
+    }
+}
